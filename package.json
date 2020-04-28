@@ -32,12 +32,12 @@
     "proxy-from-env": "0.0.1"
   },
   "devDependencies": {
-    "coveralls": "^2.11.6",
-    "eslint": "^2.2.0",
-    "istanbul": "^0.4.2",
-    "lolex": "^1.5.0",
-    "mocha": "^3.4.2",
-    "nock": "^8.2.1",
+    "coveralls": "^2.13.3",
+    "eslint": "^2.13.1",
+    "istanbul": "^0.4.5",
+    "lolex": "^1.6.0",
+    "mocha": "^3.5.3",
+    "nock": "^8.2.2",
     "supertest": "^2.0.1"
   },
   "scripts": {
